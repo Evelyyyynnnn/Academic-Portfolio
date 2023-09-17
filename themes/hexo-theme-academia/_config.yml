@@ -1,0 +1,70 @@
+favicon: /img/favicon.png
+# Change to your profile picture
+avatar: /img/avatar.jpg
+# if author sets in hexo_config, this string doesn't work
+author: 'Wenke Du'
+author_bio: 'Undergraduate Student' 
+
+since: 2019
+
+# Top Menu 顶部菜单
+# #title 为页内跳转，单页模式
+# 可以选择外链或其他页面
+menu:
+  About: /2023/09/05/About/index.html
+  Publications: /Publications/index.html
+  Projects: /Projects/index.html
+  Social Actitivies: /Activity/index.html
+
+# flink picture will load if avator link calls on error
+loading_bg:
+  flink: /img/profile.png
+
+# Social Links; 社交链接，不需要的链接直接注释掉
+# 可以调整显示顺序
+# 图标调用 font-awesome 4.7
+social:
+  enable: true
+social_links:
+  fab fa-twitter: https://twitter.com/DuVicky233691
+  fab fa-facebook-square: https://www.xiaohongshu.com/user/profile/645f6a84000000001400d424?xhsshare=CopyLink&appuid=645f6a84000000001400d424&apptime=1693916691
+  fab fa-github: https://github.com/Viiiikedy
+  fab fa-linkedin: https://www.linkedin.com/in/du-vicky-32687828a/
+  #fab fa-weibo: /
+  #fab fa-weixin: /
+  #fab fa-stack-overflow: /
+  #fab fa-qq: /
+  #fas fa-envelope: vickydu1213@gmail.com
+  fas fa-rss:  https://calendly.com/vickydu1213/networking-call
+
+# Additional social_links，额外添加自定义链接，可显示链接名称
+# name: url || icon_name
+e_social:
+  enable: true
+e_social_links:
+  Google Scholar: https://scholar.google.com/citations?hl=zh-CN&view_op=list_works&authuser=1&gmla=AOV7GLPiNYmqbXKziQEN746P6ioZzujlOTzler1DiWcZsxjnUP93ZREIPppStbpitiD7wgkxc-g-1hBsMHmtGvw4JUUOnRZ3qh78eOZEPAVi98rHUccmS9XP79hybbi9EqM&user=3bUZCSEAAAAJ
+# ORCID: / || fab fa-orcid
+
+# CV download link
+cv_dl:
+  enable: true
+  dir: /attaches/CV.pdf
+  description: My Detail CV.
+
+# Box-shadow
+# display box-shadow on page or not
+box_shadow:
+  enable: true
+
+# CDN
+# 根据需要自行添加js/css
+# 自定义css可以直接写在user.styl中
+CDN_USE:
+  css:
+    - /css/index.css
+#    - https://cdn.jsdelivr.net/npm/font-awesome@latest/css/font-awesome.min.css
+    - https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@5.13.0/css/all.min.css # fontawesome 5
+  js:
+    - https://cdn.jsdelivr.net/npm/jquery@latest/dist/jquery.min.js #/js/third-party/jquery.min.js
+    - https://cdn.jsdelivr.net/npm/jquery-pjax@latest/jquery.pjax.min.js
+    - /js/main.js
