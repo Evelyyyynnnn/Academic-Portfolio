@@ -3,81 +3,163 @@ date: 2023-09-08 17:55:11
 
 ---
 
+# Social Activity
+
+As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
+
+<img align="right" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "250" height = "250" />
+
+## [GLOBAL CITIZEN YEAR](https://www.globalcitizenyear.org/)
+
+As my gap year project,[Global Citizen Year(GCY)](https://www.linkedin.com/school/global-citizen-year/) is an international education non-profit organization focused on youth empowerment, aiming to [connect world innovation](https://www.facebook.com/globalcitizenyear) and change leaders through first-class [academic and practical projects](https://www.instagram.com/globalcitizenyr/), and [cultivate a new generation of world](https://en.wikipedia.org/wiki/Global_Citizen_Year) youth leaders to jointly address [global challenges](https://twitter.com/GlobalCitizenYr) including climate change, disease prevention, improved education, and [poverty eradication](https://www.youtube.com/user/GlobalCitizenYearVid)
+
+Under the guidance of GCY,I held large local workshops and participated in designing like 
+- [Carbon Cycle](https://mp.weixin.qq.com/s/RidtbtqEc490KWu4USiF8A) 
+- [Zero-Carbon Challenge](https://mp.weixin.qq.com/s/mzx1LJwZn9HRx9p1LZWarw) 
+
 
 <img align="right" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" width = "250" height = "250" />
+
 
 ## [VIRA](http://www.fusinnovations.com/)
 
 As the founder of [VIRA](/attaches/Proposal.pdf) which is one [social enterprise](/attaches/ImpactReport.pdf) ,I believe in the strength of [Metaverse](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd) for **EDUCATIONAL [EQUATLITY](https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ) and [SUSTATINABILITY](https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q)** through our social innovation toolkits and EdTech software.
 
-#### MISSION 
+### Mission 
 - Plan marketing,creative writing, and graphic design for WeChat and Instagram.
 - Design social innovation tools for Better workshops in partnership with B Corps CN. 
-- Conduct Project-based Learning(PBL) training sessions and assist Product R&D Department in curriculum design.
+- Conduct Project-based Learning(PBL) sessions and assist Product R&D Department in curriculum design.
 
-Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html),VIRAers are committed to build up an open-source virtual STEAM community under the "Edu+" [ecosystem](https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g)..
+Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html),committed to build open-source virtual STEAM communities under the "Edu+" [ecosystem](https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g)..
 
-#### MEMORABILIA 
+### Memorabilia
 
-| Time |  Event    |
-| -------- | ---- |
-| Jan.2021  |  became the city partnership candidate of B Corps CN Building Better Business (BBB)Workshop.    |
-|          |      |
-|          |      |
-|          |      |
-|          |      |
-|          |      |
-|          |      |
-|          |      |
-|          |      |
+<style>
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px; /* 20px的底部间隔 */
+  }
+
+  th:first-child, td:first-child {
+    width: 12%; /* 调整第一列 "Time" 的宽度，可以根据需要调整 */
+    padding: 10px; /* 10px的内边距 */
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+
+  th, td {
+    padding: 10px; /* 10px的内边距 */
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Time</strong></th>
+      <th><strong>Event</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feb 2021</td>
+      <td>Be invited to be the guest speaker in <a href="https://www.youthcolab.org/movers">Youth Movers Programme</a> to share our social impact</td>
+    </tr>
+    <tr>
+      <td>Feb 2022</td>
+      <td>Hold the International Meeting</td>
+    </tr>
+    <tr>
+      <td>Apr. 2021</td>
+      <td>Play the role of media and marketing partner of <a href="https://worldwide.harvard.edu/china-education-symposium">the 12th Harvard China Education Symposium</a></td>
+    </tr>
+    <tr>
+      <td>Dec. 2021</td>
+      <td>Join the <a href="https://unglobalcompact.org/">UN Global Compact</a> as a corporate member</a></td>
+    </tr>
+    <tr>
+      <td>Mar. 2021</td>
+      <td>Become the official partner of the <a href="https://inhub.thehenryford.org/icw/home">China Regional Alliance of Invention Convention Worldwide</a></td>
+    </tr>
+    <tr>
+      <td>Jul. 2022</td>
+      <td><a href="https://www.linkedin.com/company/fusinnovations/"></a> Be rewarded more than 100K USD by our sponsors</td>
+    </tr>
+    <tr>
+      <td>Dec. 2022</td>
+      <td>Be selected and accelerated in <a href="https://watson.is/">Watson Institution</a>, which is one of the best universities and communities globally for the next generation of entrepreneurs</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://mp.weixin.qq.com/template/article/1694609059/index.html">Stories</a> continued...</td>
+    </tr>
+  </tbody>
+</table>
+
+<br/>
 
 
-
-- ——
-- Feb.2021——VIRA was invited to be the guest speaker in Youth [Movers Programme](https://www.youthcolab.org/movers) to share our social impact.
-- Apr.2021——VIRA plays the role of media and marketing partner of [the 12th Harvard China Education Symposium](https://worldwide.harvard.edu/china-education-symposium).
-- Second Half 2021——VIRA joined the [UN Global Compact](https://unglobalcompact.org/) as a corporate member and became the the official partner of the [China Regional Alliance of Invention Convention Worldwide](https://inhub.thehenryford.org/icw/home).
-- First Half 2022——[VIRA](https://www.linkedin.com/company/fusinnovations/) was rewarded more than 100K USD by our sponsors
-- Second Half 2022——VIRA was selected and accelerated in [Watson Institution](https://watson.is/) which is one of the best universities and communities globally for next generation of entrepreneurs
-- 2023——VIRA's [stories](https://mp.weixin.qq.com/template/article/1694609059/index.html) continued....
-
-------
+<img align="right" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" width = "200" height = "200" />
 
 
+### EXTENSION:&nbsp;[iDreamer](https://clubidreamer.com/)
+Under the concept of **Edcation Equality**,I've supported as a core [member](https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag).
+- Everthing here for [University Students](https://mp.weixin.qq.com/s/MrYwdrviFl4H8MKB_FUxtw) in China
+- This project pays more attention to the [Life Planning](/attaches/iDreamer_EdTech.pdf) and [Mental Health Platform](/attaches/BP.pdf).
+- [This porject](https://datamatch.me/) also has been selected and accelerated by i-Lab Harvard Accelerator.
 
 
-#### EXTENSION:iDreamer
-Under the concept of **Edcation Equality**,I've also supported as a core member in [iDreamer](https://clubidreamer.com/).
-This project pays more attention to the [Life Planning](/attaches/iDreamer_EdTech.pdf) and Mental Health [Platform](/attaches/BP.pdf) for University Students in China.[This porject](https://datamatch.me/) also has been selected and accelerated by i-Lab Harvard Accelerator.
+<br/>
 
-<img align="right" src="https://s2.loli.net/2023/09/13/HMdUnWOY6eb2vEF.jpg" width = "250" height = "250" />
+## [HOWDREAM](https://www.linkedin.com/company/howdream/)
 
-## [Howdream](https://howdream.mystrikingly.com/)
+<div style="clear: both;"></div> <!-- 添加一个清除浮动的元素 -->
 
-    The principle of me to start Howdream is similar with VIRA.But in Howdream I do more job on art therapy to save 
+<img align="right" src="https://s2.loli.net/2023/09/18/wMdK86JcFDimoY3.png" width="200" height="200" style="margin-right: 20px;" />
+
+The principle of me to start [Howdream](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA) is similar with VIRA.
+But here as the [ex-business manager](https://howdream.mystrikingly.com/) I do more job on [art therapy](https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg).
+
+We started from Watson Institution 2021 Shanghai Workshop. We are committed to assisting Chinese youth at home and abroad in addressing the unique challenges of personal exploration, family campus relationships, cultural integration, and educational equity during this development period through cultural and creative products, multimedia content, and creative workshops.
+
+- Corporated with [EdwithU](https://www.linkedin.com/company/edwithu/) 
+- Set up [channels](https://mp.weixin.qq.com/s/63OZmDvmfuA2f2X4C10J_g) like [handcraft](https://mp.weixin.qq.com/s/8Kl8sQTyXUx4juXD_gC5wA) and [mailbox](https://mp.weixin.qq.com/s/orWalGwP7cM6bpZw0JERXQ)
+- Tried best to help youngsters get over their [psychological or mental pressure](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA)
+- Cares about [women's power](https://mp.weixin.qq.com/s/V5_ZzEPJwtRj-KgZTJZ-zA)
 
 
-    https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg
-    
-    https://mp.weixin.qq.com/s/8Kl8sQTyXUx4juXD_gC5wA)
-
-I'm the ex-business manager of another social enterpise called Howdream
-
-We corporated with EdwithU and set up channels like handcraft and mailbox to make sure every youngster could get over their [psychological or mental pressure](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA).
-we care about [women's power](https://mp.weixin.qq.com/s/V5_ZzEPJwtRj-KgZTJZ-zA)
-
-And we also learn more about the profession of college students https://mp.weixin.qq.com/s/63OZmDvmfuA2f2X4C10J_g
-
-https://mp.weixin.qq.com/s/8Kl8sQTyXUx4juXD_gC5wA
-
-https://www.linkedin.com/company/howdream/
-https://mp.weixin.qq.com/s/orWalGwP7cM6bpZw0JERXQ
-https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA
-
-In 2022,Howdream is selected into the [U35 Lise](https://mp.weixin.qq.com/s/Rn0bEi_G-euVt_x8NFHSEw)
-
-粤港澳大湾区青少年创投联合行动入选(https://mp.weixin.qq.com/s/11Eh2tAfnUYFctway-yohg)
-https://aiqicha.baidu.com/person?personId=7d8ead4471376d5d3ef777e18f921b56
+<table>
+  <thead>
+    <tr>
+      <th><strong>Time</strong></th>
+      <th><strong>Event</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Nov. 2021</td>
+      <td>Be Selected for <a href="https://www.gbsspa.org/zh-hans/gba-youth-project-sc/">Youth Venture Capital Joint Action</a></td>
+    </tr>
+    <tr>
+      <td>Mar. 2022</td>
+      <td>Be Selected into the <a href="https://mp.weixin.qq.com/s/Rn0bEi_G-euVt_x8NFHSEw">U35 Lise</a></td>
+    </tr>
+    <tr>
+      <td>Jun. 2022</td>
+      <td>Be Selected into the <a href="https://www.globalcitizenyear.org/">Global Citizen Year</a></td>
+    </tr>
+    <tr>
+      <td>Feb. 2023</td>
+      <td>Develop the Canadian Branch</td>
+    </tr>
+  </tbody>
+</table>
 
 
 
@@ -86,9 +168,3 @@ Under the principle of expressing better education to more people,I've started t
 
 
 
-
-
-During my undergraduate study life,I've participated in some other 社会创新项目：https://mp.weixin.qq.com/s/lp-ixPZBO83erSaHpwu1kw
-
-碳循环：https://mp.weixin.qq.com/s/RidtbtqEc490KWu4USiF8A
-零碳校园挑战赛：https://mp.weixin.qq.com/s/mzx1LJwZn9HRx9p1LZWarw
