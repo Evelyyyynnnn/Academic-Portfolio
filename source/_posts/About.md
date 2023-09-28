@@ -5,7 +5,7 @@ academia: true
 # 👋About Me 
 
 I’m currently an undergraduate student from [Renmin University of China](https://www.ruc.edu.cn/) majoring in **[Intelligent Accounting](#note)** 
-and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Criminal Justice**.
+and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Management Information Systems**.
 
 <style>
   .timeline {
@@ -50,7 +50,7 @@ and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Crimin
       <div class="event">
         <div class="date">2021-2024</div>
         <div class="description">
-          🎓 B.S. in Criminal Justice<br>Maine University at Presque Isle
+          🎓 B.S. in Management Information Systems<br>Maine University at Presque Isle
         </div>
       </div>
     </div>
