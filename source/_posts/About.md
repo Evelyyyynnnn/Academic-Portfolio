@@ -78,14 +78,13 @@ In the past 4 years,I've been awarded nuerous honory titles which include:
 - Other [Academic Prizes](https://mp.weixin.qq.com/s?__biz=MzA4MjE0OTcyMQ==&mid=2651516245&idx=1&sn=21946c412fb9ee6113cf380f7b64c95a&chksm=84746563b303ec757735b9d3c30d5067f054649b393c2d95132c92cbcc6394ca541ca36bc9e0&scene=27) and [Activity Prizes](https://mp.weixin.qq.com/s/vaXMoxlFKo3Z4L-xw-OjUA) from Renmin University of China
 
 # External Internship
-I acted as a financial intern in [Deloitte](https://www2.deloitte.com/cn/en.html) in my 2nd year of university life.And in the first half year of 2022,the  Private Equty investment internship in [KKR](https://www.kkr.com/) teaches me how to handle the real cases and I aslo joined in the investment bank summer program of [CICC](https://en.cicc.com/s) from June 2022 to September 2022.
-Recently I've just finished my internship in [HSBC](https://www.hsbc.com.hk/) as the global banking intern to focus on the secondary market and prepare my application
+I acted as a financial intern at [Deloitte](https://www2.deloitte.com/cn/en.html) in my 2nd year of university life. And in the first half year of 2022, the  Private Equity investment internship in [KKR](https://www.kkr.com/) taught me how to handle real cases. And during my exchange program in Hong Kong,I participated in a quantitative finance job at HSBC and I recently finished my investment banking summer program in[CICC](https://en.cicc.com/s) from June 2022 to September 2022 and focused on the secondary market and preparing my application
 
 -- My other social activities can be found [here](/Activity/index.html).
 
 ## Skills: 
 
-Python,R,SQL,Git,MATLAB,Bloomberg,Wind,BigQuant,RiceQuant Terminal,STATASPSS,Tableau,My SQL,Web Development(Jekyll,Hugo,Hexo,Wordpress,Vue),Figma
+Python,R, SQL,Git, MATLAB,Bloomberg,Wind, BigQuant,RiceQuant Terminal, STATA,SPSS,Tableau, My SQL, Web Development(Jekyll, Hugo,Hexo, WordPress,Vue), Figma
 
 -- My research projects can be found [here](/Projects/index.html).
 
@@ -98,5 +97,4 @@ China
 Email: vickydu1213@gmail.com
 
 <div id="note">[1]Compound major of Computer Science and Accounting:enthusiast</div>
-
 
