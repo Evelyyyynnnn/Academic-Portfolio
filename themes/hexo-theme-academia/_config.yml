@@ -11,7 +11,7 @@ since: 2019
 # #title 为页内跳转，单页模式
 # 可以选择外链或其他页面
 menu:
-  About: /2023/09/05/About/index.html
+  About: /About/index.html
   Publications: /Publications/index.html
   Projects: /Projects/index.html
   Social Actitivies: /Activity/index.html

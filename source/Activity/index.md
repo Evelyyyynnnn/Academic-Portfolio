@@ -7,7 +7,7 @@ date: 2023-09-08 17:55:11
 
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
-<img align="right" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "250" height = "250" />
+<img align="right" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "230" height = "230" />
 
 ## [GLOBAL CITIZEN YEAR](https://www.globalcitizenyear.org/)
 

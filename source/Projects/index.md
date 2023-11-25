@@ -8,6 +8,7 @@ If you want to know about me,you could visit the following websites here:
 Profession Series:
 - [Quant Notebook](https://finance-quant-book.netlify.app)
 - [CS Notebook](https://cs-book.netlify.app)
+
 Languate Series:
 - [Korean Learning Notebook](https://korean-book.netlify.app)
 - [French Learning Notebook](https://french-book.netlify.app)
