@@ -26,13 +26,13 @@ loading_bg:
 social:
   enable: true
 social_links:
-  fas fa-user: /attaches/CV.pdf
+  fas fa-user: https://cv.vickyblog.xyz/
   fas fa-envelope: mailto:vickydu1213@gmail.com
   fas fa-graduation-cap: https://scholar.google.com/citations?hl=zh-CN&user=3bUZCSEAAAAJ&view_op=list_works&citft=1&citft=2&citft=3&email_for_op=llll583960%40gmail.com&gmla=AP6z3OYK-4y6XgzHLPXBcE7KvtSiUfjvJmNbYhh_dyNGQfzJwm0ii1o79y0gbkjd1O-b8yUZ7f2dXps-2J7HpWnsHdrMIP1zQ0DTW8xZ321dAR4ZEWCtCZff8Jml-rWOH3fEaIa5QSANWJIDr2_UJqBOLYM8KclB9pyW1sDy7aXhJf3ZTybynS9HkiorBFLL7WU3dK7wj_wwdiYVI4ebPIjre_w35-lT2tH6Ovqjs4CQvLOR9GWGUJ28BUSfhQ
   fab fa-github: https://github.com/Viiiikedy
-  fab fa-linkedin: https://www.linkedin.com/in/du-vicky-32687828a/
+  fab fa-linkedin: https://www.xiaohongshu.com/user/profile/601e21a400000000010080c4?xhsshare=CopyLink&appuid=5f1d68700000000001006d5a&apptime=1704168241
   fab fa-orcid: https://orcid.org/0009-0007-5579-234X
-  fas fa-network-wired: https://viiicky.notion.site/Vicky-Du-d0897fc79eb648b38e1d7a59f538a2d7?pvs=4
+  fas fa-network-wired: https://vicky-english-post-site.vercel.app/
   fab fa-twitter: https://twitter.com/DuVicky233691
   fab fa-facebook-square: https://www.xiaohongshu.com/user/profile/645f6a84000000001400d424?xhsshare=CopyLink&appuid=645f6a84000000001400d424&apptime=1693916691
   fas fa-rss:  https://calendly.com/vickydu1213/networking-call
