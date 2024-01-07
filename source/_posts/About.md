@@ -7,6 +7,12 @@ academia: true
 I’m currently an undergraduate student from [Renmin University of China](https://www.ruc.edu.cn/) majoring in **[Intelligent Accounting](#note)** 
 and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Management Information Systems**.
 
+You could find my related websites here:
+- Data Science and Business Analytics: https://cs-book.netlify.app
+- Language Note Book: https://korean-book.netlify.app
+- Post in Chinese: https://vicky-post-site.vercel.app/
+- Project Summary: https://cv.vickyblog.xyz/
+  
 <style>
   .timeline {
     border-left: 2px solid gray; /* 修改这里的颜色 */
@@ -59,8 +65,7 @@ and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Manage
 
 --My research papers can be found [here](/Publications/index.html).
 
-Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).
-During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
+Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
 
 ## Courses
 - **Computer Science:**
