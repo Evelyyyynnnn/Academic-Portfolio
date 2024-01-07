@@ -3,13 +3,12 @@ date: 2023-09-08 17:55:11
 
 ---
 
-# Social Activity
 
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
 <img align="right" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "230" height = "230" />
 
-## [GLOBAL CITIZEN YEAR](https://www.globalcitizenyear.org/)
+### [GLOBAL CITIZEN YEAR](https://www.globalcitizenyear.org/)
 
 As my gap year project,[Global Citizen Year(GCY)](https://www.linkedin.com/school/global-citizen-year/) is an international education non-profit organization focused on youth empowerment, aiming to [connect world innovation](https://www.facebook.com/globalcitizenyear) and change leaders through first-class [academic and practical projects](https://www.instagram.com/globalcitizenyr/), and [cultivate a new generation of world](https://en.wikipedia.org/wiki/Global_Citizen_Year) youth leaders to jointly address [global challenges](https://twitter.com/GlobalCitizenYr) including climate change, disease prevention, improved education, and [poverty eradication](https://www.youtube.com/user/GlobalCitizenYearVid)
 
@@ -21,18 +20,18 @@ Under the guidance of GCY,I held large local workshops and participated in desig
 <img align="right" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" width = "250" height = "250" />
 
 
-## [VIRA](http://www.fusinnovations.com/)
+### [VIRA](http://www.fusinnovations.com/)
 
 As the founder of [VIRA](/attaches/Proposal.pdf) which is one [social enterprise](/attaches/ImpactReport.pdf) ,I believe in the strength of [Metaverse](https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd) for **EDUCATIONAL [EQUATLITY](https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ) and [SUSTATINABILITY](https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q)** through our social innovation toolkits and EdTech software.
 
-### Mission 
+#### Mission 
 - Plan marketing,creative writing, and graphic design for WeChat and Instagram.
 - Design social innovation tools for Better workshops in partnership with B Corps CN. 
 - Conduct Project-based Learning(PBL) sessions and assist Product R&D Department in curriculum design.
 
 Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html),committed to build open-source virtual STEAM communities under the "Edu+" [ecosystem](https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g)..
 
-### Memorabilia
+#### Memorabilia
 
 <style>
   table {
@@ -117,7 +116,7 @@ Under the concept of **Edcation Equality**,I've supported as a core [member](htt
 
 <br/>
 
-## [HOWDREAM](https://www.linkedin.com/company/howdream/)
+### [HOWDREAM](https://www.linkedin.com/company/howdream/)
 
 <div style="clear: both;"></div> <!-- 添加一个清除浮动的元素 -->
 

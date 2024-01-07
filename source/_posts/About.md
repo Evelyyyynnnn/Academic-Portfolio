@@ -7,11 +7,6 @@ academia: true
 I’m currently an undergraduate student from [Renmin University of China](https://www.ruc.edu.cn/) majoring in **[Intelligent Accounting](#note)** 
 and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Management Information Systems**.
 
-You could find my related websites here:
-- Data Science and Business Analytics: https://cs-book.netlify.app
-- Language Note Book: https://korean-book.netlify.app
-- Post in Chinese: https://vicky-post-site.vercel.app/
-- Project Summary: https://cv.vickyblog.xyz/
   
 <style>
   .timeline {
