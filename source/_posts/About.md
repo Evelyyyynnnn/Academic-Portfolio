@@ -4,8 +4,7 @@ academia: true
 
 # 👋About Me 
 
-I’m currently an undergraduate student from [Renmin University of China](https://www.ruc.edu.cn/) majoring in **[Intelligent Accounting](#note)** 
-and [Maine University at Presque Isle](https://umaine.edu/) majoring in **Management Information Systems**.
+I’m currently a graduate student at [Cornell University](https://www.cornell.edu/) majoring in **[Operation Research and Industry Engineering](#note)** 
 
   
 <style>
@@ -96,5 +95,5 @@ Beijing
 China
 Email: vickydu1213@gmail.com
 
-<div id="note">[1]Compound major of Computer Science and Accounting:enthusiast</div>
+<div id="note">[1]Financial Engineering Track</div>
 
