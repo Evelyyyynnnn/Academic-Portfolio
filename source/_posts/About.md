@@ -28,17 +28,16 @@ I’m currently a graduate student at [Cornell University](https://www.cornell.e
   }
 </style>
 
-
 <div style="display: flex; justify-content: space-between;">
-  <div style="width: 55%;"> <!-- 调整Interests部分的宽度 -->
+  <div style="width: 48%;">
     <h3>Research Interests:</h3>
-    <ul style="line-height: 3;"> <!-- 调整行间距 -->
-      <li>Data-Driven Decision Making in Finance and Economics</li>
+    <ul style="line-height:6;"> <!-- 调整行间距为3.5来增加高度 -->
+      <li>Data-Driven Decision Making in Finance</li>
       <li>Supply Chain Management Across Disciplines</li>
-      <li>Deep Learning for Financial and Behavioral Innovation</li>
+      <li>Deep Learning for Financial/Behavioral Innovation</li>
     </ul>
   </div>
-  <div style="width: 45%;"> <!-- 调整Education部分的宽度 -->
+  <div style="width: 52%;">
     <h3>Education:</h3>
     <div class="timeline">
       <div class="event">
@@ -51,6 +50,12 @@ I’m currently a graduate student at [Cornell University](https://www.cornell.e
         <div class="date">2021-2024</div>
         <div class="description">
           🎓 B.S. in Management Information Systems<br>Maine University at Presque Isle
+        </div>
+      </div>
+      <div class="event"> <!-- 新加的教育背景 -->
+        <div class="date">2024-2026</div>
+        <div class="description">
+          🎓 M.Eng in Financial Engineering Track<br>Operational Research and Industry Engineering <br>Cornell University
         </div>
       </div>
     </div>
@@ -88,11 +93,9 @@ Python,R, SQL,Git, MATLAB,Bloomberg,Wind, BigQuant,RiceQuant Terminal, STATA,SPS
 -- My research projects can be found [here](/Projects/index.html).
 
 # Contact Information
-Wenke Du
-Zhognguancun Street 59
-Haidian District
-Beijing
-China
+Evelyn Du
+503 Summerhill Lane, Apt. 7
+Ithaca, NY  14850
 Email: vickydu1213@gmail.com
 
 <div id="note">[1]Financial Engineering Track</div>
