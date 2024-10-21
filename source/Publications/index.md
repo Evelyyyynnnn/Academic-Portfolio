@@ -21,10 +21,5 @@ These papers have also been published on [Atlantis Press](https://www.atlantis-p
 2023,*Proceedings of the 2nd International Conference on Mathematical Statistics and Economic Analysis*
 - [Application of Three Social Psychological Models in Post-epidemic, Based on Statistical Science Summary Test](https://www.hillpublisher.com/ArticleDetails/1488)&nbsp;*JHAS*,2023, with S Zheng
 
-## Book Chapter
-- [新素食主义在新零售的当下, 何去何从?——论现代化生活方式对传统素食结构主义的改变](#note). 中国食文化研究论文集 (第三辑).
 
 
-
-
-<div id="note">[1]汶珂同学以对技术创新的讨论为切入点，首先提出危机从何而来的问题，并由此将危机划分为两类——一类自然内在于社会自我发展的过程中，例如RPA技术，在创造巨大市值的同时也导致了普通员工的失业；一类则是“不确定的危机”，其挑战多于机遇，例如新冠疫情；可以认为，前者是社会不断发展的结果之一，后者则是加强社会体系建设的推动力之一，而应对后者即不确定性，认清利弊相依的规律、矢志不渝足矣。</div>
