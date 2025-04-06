@@ -92,7 +92,7 @@ In the past 4 years,I've been awarded nuerous honory titles which include:
 
 C++,Python,R, SQL,Git,MATLAB,Bloomberg,Wind,BigQuant,RiceQuant Terminal, STATA,SPSS,Tableau, My SQL, Web Development(Jekyll, Hugo,Hexo, WordPress,Vue), Figma
 
--- My research projects can be found [here](/Projects/index.html).
+-- My research projects can be found [here](https://evelyyyynnnn.github.io/2025/04/11/Project/Economy/Economy/index.html).
 
 # Contact Information
 Evelyn Du
