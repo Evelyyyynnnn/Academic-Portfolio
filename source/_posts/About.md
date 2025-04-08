@@ -6,6 +6,8 @@ academia: true
 
 I'm currently a graduate student at [Cornell University](https://www.cornell.edu/) majoring in **[Operation Research and Information Engineering](https://www.orie.cornell.edu/orie)** 
 
+Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
+
   
 <style>
   .timeline {
@@ -64,7 +66,6 @@ I'm currently a graduate student at [Cornell University](https://www.cornell.edu
 
 - My research papers can be found [here](/Publications/index.html).
 
-Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
 
 ## Courses
 
