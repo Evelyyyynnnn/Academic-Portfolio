@@ -38,7 +38,7 @@ Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.ht
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 20px; /* 20px的底部间隔 */
-    font-size: 0.9rem;
+    font-size: 1.8rem;
   }
 
   th:first-child, td:first-child {
