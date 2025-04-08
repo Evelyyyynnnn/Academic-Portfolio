@@ -67,14 +67,18 @@ I'm currently a graduate student at [Cornell University](https://www.cornell.edu
 Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
 
 ## Courses
-- **Optimization and Stochastics**
-  Optimization Modeling in Finance;Monte Carlo Simulation;Quantitative Methods of Financial Risk Mgmt
-- **Computer Science:**
-  Data Structure;OOP;Advanced Machine Learning with Python;Data Science & Algorithms
-- **Mathematics:**
-  Calculus;Linear Algebra;Statistics;Partial Differential Equatitons;Nemerial Analysis
-- **Finance and Economy:**
-  Financial Accounting;Managerial Accounting;Corporate Finance;Into & Intermed Micro & Macro;
+
+**Optimization and Stochastics**
+- Optimization Modeling in Finance;Monte Carlo Simulation;Quantitative Methods of Financial Risk Mgmt
+
+**Computer Science:**
+- Data Structure;OOP;Advanced Machine Learning with Python;Data Science & Algorithms
+
+**Mathematics:**
+- Calculus;Linear Algebra;Statistics;Partial Differential Equatitons;Nemerial Analysis
+
+**Finance and Economy:**
+- Financial Accounting;Managerial Accounting;Corporate Finance;Into & Intermed Micro & Macro;
 
 # Awards 
 In the past 4 years,I've been awarded nuerous honory titles which include: 
