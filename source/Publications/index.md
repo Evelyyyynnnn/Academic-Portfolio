@@ -6,7 +6,7 @@ date: 2023-09-08 17:55:11
 .paper-row {
   display: flex;
   flex-wrap: wrap;
-  align-items: flex-start;
+  align-items: center; /* ← 重点修改 */
   gap: 2rem;
   margin-bottom: 3rem;
 }
