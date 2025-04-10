@@ -10,9 +10,56 @@ These papers have also been published on [Atlantis Press](https://www.atlantis-p
 - RDD Data Mining about Status Quo of Russian social welfare
 ——based on Salary Difference Related to Gender, Age, Degree etc
 - Progress and Practices of Internationalization of Chinese Multinational Enterprises (MNEs)
+
 ## Published Papers
-- [Economic Forecast of the Southern China on BP Neural Network---Taking Chongqing as an Example](https://www.atlantis-press.com/proceedings/icfied-21/125954303#:~:text=The%20back%20propagation%20neural%20network%20model%20of%20comprehensive,with%20the%20overall%20economic%20development%20of%20the%20country.)
+
+
+<div class="paper-container">
+  <div class="paper-image">
+    <img src="/img/Economic-Paper.jpg" alt="Economic Forecast Paper Cover">
+  </div>
+  <div class="paper-content">
+    <h2>
+      <a href="https://www.atlantis-press.com/proceedings/icfied-21/125954303" target="_blank">
+        Economic Forecast of the Southern China on BP Neural Network — Taking Chongqing as an Example
+      </a>
+    </h2>
+    <p><strong>Authors:</strong> Wenke Du, Jing Ge, Shidong Sun</p>
+
+    <p>
+      Based on the strong economic development trends in Chongqing in recent years, this study examines large fluctuations in GDP increments across its subordinate districts and counties. It also addresses the increasing need for characterizing regional economies through quantitative analysis.
+    </p>
+
+    <p>
+      The research introduces a sampling-based framework to construct comprehensive economic development indicators. A back-propagation (BP) neural network model is then trained to forecast the economic trajectory of Chongqing and southern China over the next five years, capturing its correlation with national development trends.
+    </p>
+
+    <p>
+      Techniques such as Principal Component Analysis (PCA) and dimensionality reduction time series modeling are used to analyze data spanning 2000 to 2019, sourced from the National Bureau of Statistics, financial statements, and annual reports.
+    </p>
+
+    <p>
+      The findings reveal universal applicability, especially in regions facing both economic divergence and structural commonality. This approach provides a replicable mechanism for generating regional economic overviews, thus supporting macroeconomic policy planning and revision.
+    </p>
+  </div>
+</div>
+
+
+
+- 
 2021,*6th International conference on financial innovation and economic development (ICFIED 2021) (pp. 614-618).*,with J Ge et.al
+
+
+[Economic Forecast of the Southern China on BP Neural Network---Taking Chongqing as an Example](https://www.atlantis-press.com/proceedings/icfied-21/125954303#:~:text=The%20back%20propagation%20neural%20network%20model%20of%20comprehensive,with%20the%20overall%20economic%20development%20of%20the%20country.)
+
+Wenke Du, Jing Ge, Shidong Sun
+
+Based on the good economic development trends in Chongqing in recent years, the large changes in GDP increments of the subordinate districts and counties, and the gradual attention paid to the characteristics of regional economic regions. This article used the idea of sampling to establish comprehensive economic development indicators. The back propagation neural network model of comprehensive economic development can accurately predict the overall economic development of Chongqing and southern regions in the next five years, and explore its correlation with the overall economic development of the country. Through the application of principal component analysis and dimensionality reduction time series analysis, it fits the relationship between the comprehensive indicator data of Chongqing area from 2000 to 2019 obtained from the National Bureau of Statistics, financial reports and annual reports so as to carry out model training, analysis and prediction. The conclusion from this passage has strong universality in the current situation of regional economic differentiation and commonality. After the promotion and establishment of a mechanism to obtain a regional economic overview by sampling representative cities in various regions, it will greatly promote the formulation and modification of macroeconomic policies.
+
+
+
+
+![alt text](image.png)
 - [Application of Support Vector Regression in Prediction Model Using Genetic Algorithm Optimized](https://www.researchgate.net/publication/353649073_Application_of_support_vector_regression_in_prediction_model_using_genetic_algorithm_optimized)
 2021,*Journal of Physics: Conference Series (Vol. 1982, No. 1, p. 012048). IOP Publishing.*
 - A New Image Description Generation Algorithm Based on Improved Attention Mechanism

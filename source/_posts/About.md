@@ -90,12 +90,16 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
 **Finance and Economy:**
 - Financial Accounting;Managerial Accounting;Corporate Finance;Into & Intermed Micro & Macro;
 
-# 🏆 Awards 
-
-- *2023.06*  The [Ivy-Star](http://www.gdcenn.cn/a/202207/557686.html) of IFAC(the International Federation of Accountants),CGMA(The Chartered Global Management Accountant Association)and AICPA(American Institute of Certified Public Accountants),
+# 🏆 Awards and News
+- *2024.02*: Akuna Trading Competition
+- *2023.06*  The [Ivy-Star](http://www.gdcenn.cn/a/202207/557686.html) of IFAC(the International Federation of Accountants),CGMA(The Chartered Global Management Accountant Association)and AICPA(American Institute of Certified Public Accountants)
+- *2023.05*: Association for Computing Machinery Member
 - *2022.09* The [Dean's List](https://www.umpi.edu/articles/umpi-releases-deans-list-for-fall-2022/) from [UMPI](https://thecounty.me/2023/03/14/education/umpi-releases-deans-list-for-fall-2022/) which has also been widely [published](https://fiddleheadfocus.com/2023/03/14/news/community/umpi-releases-deans-list-for-fall-2022/) by the mainstream media
+- *2022.04*: Mathematical Contest in Modeling F Prize
 - *2021.09*  The [Merit Student](http://student.rmbs.ruc.edu.cn/Website/Show/?id=1009) from Renmin University of China and other [Academic Prizes](https://mp.weixin.qq.com/s?__biz=MzA4MjE0OTcyMQ==&mid=2651516245&idx=1&sn=21946c412fb9ee6113cf380f7b64c95a&chksm=84746563b303ec757735b9d3c30d5067f054649b393c2d95132c92cbcc6394ca541ca36bc9e0&scene=27) and [Activity Prizes](https://mp.weixin.qq.com/s/vaXMoxlFKo3Z4L-xw-OjUA)
-
+- *2021.02*: Global Citizen Scholar 
+- *2021.01*: Kaggle (Silver)
+- *2018.01*: Mathematical Competition (1st prize) 
 
 # 💼 Internship
 
@@ -109,9 +113,9 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
 
 ## 🛠 Skills: 
 
-C++,Python,R,SQL,Git,MATLAB,Bloomberg,Wind,BigQuant,RiceQuant Terminal, STATA,SPSS,Tableau, My SQL, Web Development(Jekyll, Hugo,Hexo, WordPress,Vue), Figma
-
--- My research projects can be found [here](https://evelyyyynnnn.github.io/2025/04/11/Project/Economy/Economy/index.html).
+- **Certification**: Association of Chartered Certified Accountants Candidate, Association for Computing Machinery Member 
+- ** Skills**:Python, R, SQL, C++, JavaScript, QuantAI, Git, SPSS, MATLAB, Bloomberg, Wind, Tableau, Power BI
+- My research projects can be found [here](https://evelyyyynnnn.github.io/2025/04/11/Project/Economy/Economy/index.html).
 
 # 📞 Contact Information
 Evelyn Du
