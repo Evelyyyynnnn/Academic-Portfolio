@@ -4,9 +4,7 @@ academia: true
 
 # 👋About Me 
 
-I'm currently a graduate student at [Cornell University](https://www.cornell.edu/) majoring in **[Operation Research and Information Engineering](https://www.orie.cornell.edu/orie)** 
-
-Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
+I'm currently a graduate student at [Cornell University](https://www.cornell.edu/) majoring in **[Operation Research and Information Engineering](https://www.orie.cornell.edu/orie)** . Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/). In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
 
   
 <style>

@@ -17,6 +17,7 @@ date: 2023-09-08 17:55:11
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
 <img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "230" height = "230" />
+<div style="clear: both;"></div>
 
 ## GLOBAL CITIZEN YEAR
 
@@ -28,6 +29,7 @@ Under the guidance of [GCY](https://www.globalcitizenyear.org/),I held large loc
 
 
 <img align="left" class="img-shadow"  src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" width = "250" height = "250" />
+<div style="clear: both;"></div>
 
 
 ## VIRA
@@ -116,6 +118,7 @@ Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.ht
 
 
 <img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" width = "200" height = "200" />
+<div style="clear: both;"></div>
 
 
 ## EXTENSION:&nbsp;iDreamer
@@ -132,6 +135,7 @@ Under the concept of **Edcation Equality**,I've supported as a core [member](htt
 <div style="clear: both;"></div> <!-- 添加一个清除浮动的元素 -->
 
 <img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/18/wMdK86JcFDimoY3.png" width="200" height="200" style="margin-right: 20px;" />
+<div style="clear: both;"></div>
 
 The principle of me to start [Howdream](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA) is similar with VIRA.
 But here as the [ex-business manager](https://howdream.mystrikingly.com/) I do more job on [art therapy](https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg).
