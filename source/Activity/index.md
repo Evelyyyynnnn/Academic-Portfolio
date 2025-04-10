@@ -63,9 +63,7 @@ date: 2023-09-08 17:55:11
       through our social innovation toolkits and EdTech software.Registered in <a href="https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html">China</a>, 
       committed to build open-source virtual 
       <a href="http://www.fusinnovations.com/">STEAM communities</a> under the “Edu+” 
-      <a href="https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g">ecosystem</a>.
-      </br>
-      We also have the mission as follows:
+      <a href="https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g">ecosystem</a>. We also have the mission as follows:
       <li>Plan marketing, creative writing, and graphic design for WeChat and Instagram.</li>
       <li>Design social innovation tools for Better workshops in partnership with B Corps CN.</li>
       <li>Conduct Project-based Learning (PBL) sessions and assist Product R&D Department in curriculum design.</li>
