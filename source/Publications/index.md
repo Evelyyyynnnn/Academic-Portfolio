@@ -13,36 +13,27 @@ These papers have also been published on [Atlantis Press](https://www.atlantis-p
 
 ## Published Papers
 
-
-<div class="paper-container">
-  <div class="paper-image">
-    <img src="/img/Economic-Paper.jpg" alt="Economic Forecast Paper Cover">
-  </div>
-  <div class="paper-content">
-    <h2>
-      <a href="https://www.atlantis-press.com/proceedings/icfied-21/125954303" target="_blank">
-        Economic Forecast of the Southern China on BP Neural Network — Taking Chongqing as an Example
-      </a>
-    </h2>
-    <p><strong>Authors:</strong> Wenke Du, Jing Ge, Shidong Sun</p>
-
-    <p>
-      Based on the strong economic development trends in Chongqing in recent years, this study examines large fluctuations in GDP increments across its subordinate districts and counties. It also addresses the increasing need for characterizing regional economies through quantitative analysis.
-    </p>
-
-    <p>
-      The research introduces a sampling-based framework to construct comprehensive economic development indicators. A back-propagation (BP) neural network model is then trained to forecast the economic trajectory of Chongqing and southern China over the next five years, capturing its correlation with national development trends.
-    </p>
-
-    <p>
-      Techniques such as Principal Component Analysis (PCA) and dimensionality reduction time series modeling are used to analyze data spanning 2000 to 2019, sourced from the National Bureau of Statistics, financial statements, and annual reports.
-    </p>
-
-    <p>
-      The findings reveal universal applicability, especially in regions facing both economic divergence and structural commonality. This approach provides a replicable mechanism for generating regional economic overviews, thus supporting macroeconomic policy planning and revision.
-    </p>
-  </div>
-</div>
+<table>
+  <tr>
+    <td width="35%">
+      <img src="/img/Economic-Paper.jpg" alt="Economic Paper Cover" style="width:100%; border-radius: 8px;" />
+    </td>
+    <td width="65%">
+      <h3>
+        <a href="https://www.atlantis-press.com/proceedings/icfied-21/125954303" target="_blank">
+          Economic Forecast of the Southern China on BP Neural Network — Taking Chongqing as an Example
+        </a>
+      </h3>
+      <p><strong>Authors:</strong> Wenke Du, Jing Ge, Shidong Sun</p>
+      <p>
+        This study explores the economic development patterns of Chongqing and southern China using a Back Propagation Neural Network (BPNN) model. It constructs comprehensive regional economic indicators via sampling methodology, and applies PCA and time-series dimensionality reduction to train and validate the forecasting model.
+      </p>
+      <p>
+        Using data from 2000 to 2019 obtained from the National Bureau of Statistics and financial reports, the model effectively predicts regional GDP growth and reveals correlations with national development trends. The approach offers strong generalizability for macroeconomic policy design through representative city sampling.
+      </p>
+    </td>
+  </tr>
+</table>
 
 
 
