@@ -74,22 +74,6 @@ date: 2023-09-08 17:55:11
 </div>
 
 
-
-<div class="img-text-row">
-  <img class="img-shadow" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" alt="VIRA Logo">
-  <div class="text-block">
-    <p>
-      As the founder of <a href="/attaches/Proposal.pdf">VIRA</a>, which is one 
-      <a href="/attaches/ImpactReport.pdf">social enterprise</a>, I believe in the strength of 
-      <a href="https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd">Metaverse</a> 
-      for <strong>EDUCATIONAL</strong> 
-      <a href="https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ"><strong>EQUATLITY</strong></a> and 
-      <a href="https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q"><strong>SUSTATINABILITY</strong></a> 
-      through our social innovation toolkits and EdTech software.
-    </p>
-  </div>
-</div>
-
 <h4 style="margin-top: 2rem;">📌 Memorabilia</h4>
 
 <table>
