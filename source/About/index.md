@@ -18,7 +18,7 @@ date: 2023-09-08 17:55:11
 
   <p>More Detail <a href="https://evelyyyynnnn.github.io/">About Me</a></p>
 
-  <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="300" class="img-shadow" />
+  <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="900" class="img-shadow" />
 </div>
 
 
