@@ -21,22 +21,28 @@ date: 2023-09-08 17:55:11
 </style>
 
 <div>
-  <p>Here you could find more of my websites where you could refer more on the projects:</p>
+  <p>Here you could find more of my websites where you could refer more on the projects, please just click to jump through</p>
 
-  <p>More Portfolio <a href="https://evelyyyynnnn.github.io/">About Me</a></p>
-
+  <p>More Portfolio of Me</p>
   <a href="https://evelyyyynnnn.github.io/" target="_blank">
     <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="1000" class="img-shadow" />
   </a>
+
+  <p>Language Learning <a href="https://korean-book.netlify.app">Series</a></p>
+  <a href="https://korean-book.netlify.app" target="_blank">
+    <img src="/img/Evelyn-Korean.jpg" alt="Evelyn Korean" width="1000" class="img-shadow" />
+  </a>
+
+  <p><a href="https://evelyn-english-post-site.vercel.app/">Posts Blog</a></p>
+  <a href="https://evelyn-english-post-site.vercel.app/" target="_blank">
+    <img src="/img/Evelyn-Post.jpg" alt="Evelyn Post" width="1000" class="img-shadow" />
+  </a>
+
+  <p>Interesting Design <a href="#">Portfolio</a></p>
+  <a href="#" target="_blank">
+    <img src="/img/Evelyn-ART.jpg" alt="Evelyn Art Portfolio" width="1000" class="img-shadow" />
+  </a>
+
 </div>
 
 
-
-Here you could find more of my websites where you could refer more on the projects:
-
-
-
-
-- Language Learning [Series](https://korean-book.netlify.app)
-- [Posts Blog](https://evelyn-english-post-site.vercel.app/)
-- Interesting Design [Portfolio](https://jekyll-typing-artist.vercel.app/)
