@@ -6,7 +6,7 @@ academia: true
 
 I'm currently a graduate student at [Cornell University](https://www.cornell.edu/) majoring in **[Operation Research and Information Engineering](https://www.orie.cornell.edu/orie)** 
 
-Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).During 2022(my gap year),I enrolled and completed master program in [ENEB](https://eneb.com/) and [Universidad Isabel I](https://www.ui1.es/),majoring in **Big Data and Intelligence**.In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
+Since 2023,I've held a minority in **Economy** in [Peking University](https://english.pku.edu.cn/).In 2021 fall,I exchanged in [City University of Hong Kong](https://www.cb.cityu.edu.hk/exchange/international_student/testimonial?student=Inbound) to participate and played the role as the school ambassador.
 
   
 <style>
@@ -49,9 +49,9 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
         </div>
       </div>
       <div class="event">
-        <div class="date">2021-2024</div>
+        <div class="date">2022-2023</div>
         <div class="description"><strong>
-        B.S. in Management Information Systems</strong><br>🎓 Maine University at Presque Isle
+        Business School</strong><br>🎓 Exchange in City University of Hong Kong
         </div>
       </div>
       <div class="event"> <!-- 新加的教育背景 -->
@@ -67,13 +67,6 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
 - My research papers can be found [here](/Publications/index.html).
 
 
-## 🔥 News
-
-- *2025.03* I 
-- *2025.01* I 
-- *2024.12* I 
-- *2024.08* I
-- *2024.05* I
 
 
 ## 🎓 Courses
@@ -91,15 +84,15 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
 - Financial Accounting;Managerial Accounting;Corporate Finance;Into & Intermed Micro & Macro;
 
 # 🏆 Awards and News
-- *2024.02*: Akuna Trading Competition
-- *2023.06*  The [Ivy-Star](http://www.gdcenn.cn/a/202207/557686.html) of IFAC(the International Federation of Accountants),CGMA(The Chartered Global Management Accountant Association)and AICPA(American Institute of Certified Public Accountants)
-- *2023.05*: Association for Computing Machinery Member
-- *2022.09* The [Dean's List](https://www.umpi.edu/articles/umpi-releases-deans-list-for-fall-2022/) from [UMPI](https://thecounty.me/2023/03/14/education/umpi-releases-deans-list-for-fall-2022/) which has also been widely [published](https://fiddleheadfocus.com/2023/03/14/news/community/umpi-releases-deans-list-for-fall-2022/) by the mainstream media
-- *2022.04*: Mathematical Contest in Modeling F Prize
-- *2021.09*  The [Merit Student](http://student.rmbs.ruc.edu.cn/Website/Show/?id=1009) from Renmin University of China and other [Academic Prizes](https://mp.weixin.qq.com/s?__biz=MzA4MjE0OTcyMQ==&mid=2651516245&idx=1&sn=21946c412fb9ee6113cf380f7b64c95a&chksm=84746563b303ec757735b9d3c30d5067f054649b393c2d95132c92cbcc6394ca541ca36bc9e0&scene=27) and [Activity Prizes](https://mp.weixin.qq.com/s/vaXMoxlFKo3Z4L-xw-OjUA)
-- *2021.02*: Global Citizen Scholar 
-- *2021.01*: Kaggle (Silver)
-- *2018.01*: Mathematical Competition (1st prize) 
+- *2024.02* | Akuna Trading Competition
+- *2023.06* | The [Ivy-Star](http://www.gdcenn.cn/a/202207/557686.html) of IFAC(the International Federation of Accountants),CGMA(The Chartered Global Management Accountant Association)and AICPA(American Institute of Certified Public Accountants)
+- *2023.05* | Association for Computing Machinery Member
+- *2022.09* | The [Dean's List](https://www.umpi.edu/articles/umpi-releases-deans-list-for-fall-2022/) from [UMPI](https://thecounty.me/2023/03/14/education/umpi-releases-deans-list-for-fall-2022/) which has also been widely [published](https://fiddleheadfocus.com/2023/03/14/news/community/umpi-releases-deans-list-for-fall-2022/) by the mainstream media
+- *2022.04* | Mathematical Contest in Modeling F Prize
+- *2021.09* | The [Merit Student](http://student.rmbs.ruc.edu.cn/Website/Show/?id=1009) from Renmin University of China and other [Academic Prizes](https://mp.weixin.qq.com/s?__biz=MzA4MjE0OTcyMQ==&mid=2651516245&idx=1&sn=21946c412fb9ee6113cf380f7b64c95a&chksm=84746563b303ec757735b9d3c30d5067f054649b393c2d95132c92cbcc6394ca541ca36bc9e0&scene=27) and [Activity Prizes](https://mp.weixin.qq.com/s/vaXMoxlFKo3Z4L-xw-OjUA)
+- *2021.02* | Global Citizen Scholar 
+- *2021.01* | Kaggle (Silver)
+- *2018.01* | Mathematical Competition (1st prize) 
 
 # 💼 Internship
 
@@ -114,7 +107,7 @@ Since 2023,I've held a minority in **Economy** in [Peking University](https://en
 ## 🛠 Skills: 
 
 - **Certification**: Association of Chartered Certified Accountants Candidate, Association for Computing Machinery Member 
-- ** Skills**:Python, R, SQL, C++, JavaScript, QuantAI, Git, SPSS, MATLAB, Bloomberg, Wind, Tableau, Power BI
+- **Skills**: Python, R, SQL, C++, JavaScript, QuantAI, Git, SPSS, MATLAB, Bloomberg, Wind, Tableau, Power BI
 - My research projects can be found [here](https://evelyyyynnnn.github.io/2025/04/11/Project/Economy/Economy/index.html).
 
 # 📞 Contact Information
