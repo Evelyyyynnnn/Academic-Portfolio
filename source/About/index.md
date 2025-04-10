@@ -13,14 +13,15 @@ date: 2023-09-08 17:55:11
   }
 </style>
 
+<div>
+  <p>Here you could find more of my websites where you could refer more on the projects:</p>
 
-Here you could find more of my websites  where you could refer more on the projects:
+  <p>More Detail <a href="https://evelyyyynnnn.github.io/">About Me</a></p>
+
+  <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="300" class="img-shadow" />
+</div>
 
 
-More Detail [About Me](https://evelyyyynnnn.github.io/) 
-
-
-<img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="300" align="right" class="img-shadow" />
 
 Here you could find more of my websites where you could refer more on the projects:
 
