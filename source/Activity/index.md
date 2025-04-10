@@ -188,25 +188,7 @@ As the first generation college student born in one small town of the southweste
   </div>
 </div>
 
-
-
-## HOWDREAM
-
-<div style="clear: both;"></div> <!-- 添加一个清除浮动的元素 -->
-
-<img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/18/wMdK86JcFDimoY3.png" width="200" height="200" style="margin-right: 20px;" />
-<div style="clear: both;"></div>
-
-The principle of me to start [Howdream](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA) is similar with VIRA.
-But here as the [ex-business manager](https://howdream.mystrikingly.com/) I do more job on [art therapy](https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg).
-
-We started from [Watson Institution](https://www.linkedin.com/company/howdream/) 2021 Shanghai Workshop. We are committed to assisting Chinese youth at home and abroad in addressing the unique challenges of personal exploration, family campus relationships, cultural integration, and educational equity during this development period through cultural and creative products, multimedia content, and creative workshops.
-
-- Corporated with [EdwithU](https://www.linkedin.com/company/edwithu/) 
-- Set up [channels](https://mp.weixin.qq.com/s/63OZmDvmfuA2f2X4C10J_g) like [handcraft](https://mp.weixin.qq.com/s/8Kl8sQTyXUx4juXD_gC5wA) and [mailbox](https://mp.weixin.qq.com/s/orWalGwP7cM6bpZw0JERXQ)
-- Tried best to help youngsters get over their [psychological or mental pressure](https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA)
-- Cares about [women's power](https://mp.weixin.qq.com/s/V5_ZzEPJwtRj-KgZTJZ-zA)
-
+<h4 style="margin-top: 2rem;">📌 Memorabilia</h4>
 
 <table>
   <thead>
