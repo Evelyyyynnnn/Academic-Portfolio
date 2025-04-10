@@ -13,11 +13,6 @@ date: 2023-09-08 17:55:11
     max-width: 90%;
     transition: transform 0.3s ease;
   }
-
-  .img-shadow:hover {
-    transform: scale(1.05) rotate(1deg);
-    cursor: pointer;
-  }
 </style>
 
 <div>

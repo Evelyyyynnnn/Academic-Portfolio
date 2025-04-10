@@ -51,11 +51,12 @@ date: 2023-09-08 17:55:11
 
 
 <div class="img-text-row">
+  <a href="https://www.linkedin.com/school/global-citizen-year/" target="_blank">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" alt="GCY Logo">
+  </a>
   <div class="text-block">
     <p>
-      As my gap year project,
-      <a href="https://www.linkedin.com/school/global-citizen-year/">Global Citizen Year(GCY)</a> is an international education non-profit organization focused on youth empowerment,
+      As my gap year project,Global Citizen Year(GCY) is an international education non-profit organization focused on youth empowerment,
       aiming to <a href="https://www.facebook.com/globalcitizenyear">connect world innovation</a> and change leaders through first-class 
       <a href="https://www.instagram.com/globalcitizenyr/">academic and practical projects</a>, and 
       <a href="https://en.wikipedia.org/wiki/Global_Citizen_Year">cultivate a new generation of world</a> youth leaders to jointly address 
