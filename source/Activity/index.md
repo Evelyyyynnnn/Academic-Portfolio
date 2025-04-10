@@ -25,7 +25,7 @@ date: 2023-09-08 17:55:11
 
 # Social Activities
 
-<p style="text-align: center; font-size: 1.6rem; font-weight: bold;">Global Citizen Year</p>
+<p style="text-align: left; font-size: 1.7rem; font-weight: bold;">1️⃣ Global Citizen Year</p>
 
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" alt="GCY Logo">
