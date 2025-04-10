@@ -3,6 +3,7 @@ date: 2023-09-08 17:55:11
 
 ---
 
+# Social Activities 
 
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
@@ -38,7 +39,7 @@ Registed in [China](https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.ht
     border-collapse: collapse;
     width: 100%;
     margin-bottom: 20px; /* 20px的底部间隔 */
-    font-size: 1.6rem;
+    font-size: 1.5rem;
   }
 
   th:first-child, td:first-child {
