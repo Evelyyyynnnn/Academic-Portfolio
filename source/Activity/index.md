@@ -21,8 +21,31 @@ date: 2023-09-08 17:55:11
   .text-block {
     flex: 1;
   }
-</style>
 
+  table {
+    border-collapse: collapse;
+    width: 100%;
+    margin-bottom: 20px; /* 20px的底部间隔 */
+    font-size: 1.5rem;
+  }
+
+  th:first-child, td:first-child {
+    width: 12%; /* 调整第一列 "Time" 的宽度，可以根据需要调整 */
+    padding: 10px; /* 10px的内边距 */
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+
+  th, td {
+    padding: 10px; /* 10px的内边距 */
+    text-align: left;
+    border: 1px solid #ccc;
+  }
+
+  th {
+    background-color: #f2f2f2;
+  }
+</style>
 
 # Social Activities
 
@@ -121,7 +144,54 @@ date: 2023-09-08 17:55:11
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
 
+
+#### Memorabilia
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Time</strong></th>
+      <th><strong>Event</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feb 2021</td>
+      <td>Be invited to be the guest speaker in <a href="https://www.youthcolab.org/movers">Youth Movers Programme</a> to share our social impact</td>
+    </tr>
+    <tr>
+      <td>Feb 2022</td>
+      <td>Hold the International Meeting</td>
+    </tr>
+    <tr>
+      <td>Apr. 2021</td>
+      <td>Play the role of media and marketing partner of <a href="https://worldwide.harvard.edu/china-education-symposium">the 12th Harvard China Education Symposium</a></td>
+    </tr>
+    <tr>
+      <td>Dec. 2021</td>
+      <td>Join the <a href="https://unglobalcompact.org/">UN Global Compact</a> as a corporate member</a></td>
+    </tr>
+    <tr>
+      <td>Mar. 2021</td>
+      <td>Become the official partner of the <a href="https://inhub.thehenryford.org/icw/home">China Regional Alliance of Invention Convention Worldwide</a></td>
+    </tr>
+    <tr>
+      <td>Jul. 2022</td>
+      <td><a href="https://www.linkedin.com/company/fusinnovations/"></a> Be rewarded more than 100K USD by our sponsors</td>
+    </tr>
+    <tr>
+      <td>Dec. 2022</td>
+      <td>Be selected and accelerated in <a href="https://watson.is/">Watson Institution</a>, which is one of the best universities and communities globally for the next generation of entrepreneurs</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://mp.weixin.qq.com/template/article/1694609059/index.html">Stories</a> continued...</td>
+    </tr>
+  </tbody>
+</table>
+
 <br/>
+
 
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" alt="iDreamer Logo" width="200" height="200">
@@ -139,18 +209,6 @@ As the first generation college student born in one small town of the southweste
     </ul>
   </div>
 </div>
-
-
-
-<img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" width = "200" height = "200" />
-<div style="clear: both;"></div>
-
-
-## EXTENSION:&nbsp;iDreamer
-Under the concept of **Edcation Equality**,I've supported as a core [member](https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag).
-- Everthing here for [University Students](https://mp.weixin.qq.com/s/MrYwdrviFl4H8MKB_FUxtw) in China
-- This project pays more attention to the [Life Planning](/attaches/iDreamer_EdTech.pdf) and [Mental Health Platform](/attaches/BP.pdf).
-- [This porject](https://datamatch.me/) also has been selected and accelerated by [i-Lab Harvard Accelerator](https://clubidreamer.com/).
 
 
 <br/>
