@@ -97,6 +97,7 @@ date: 2023-09-08 17:55:11
 
 <h4 style="margin-top: 2rem;">📌 Memorabilia</h4>
 
+
 <table>
   <thead>
     <tr>
@@ -141,23 +142,7 @@ date: 2023-09-08 17:55:11
 </table>
 
 
-<div class="img-text-row">
-  <img class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" alt="iDreamer Logo" width="200" height="200">
-  <div class="text-block">
-    <p>
-      Under the concept of <strong>Education Equality</strong>, I've supported as a core 
-      <a href="https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag">member</a> in the iDreamer initiative.
-    </p>
-    <ul>
-      <li>Everything here is for <a href="https://mp.weixin.qq.com/s/MrYwdrviFl4H8MKB_FUxtw">University Students</a> in China.</li>
-      <li>This project pays more attention to <a href="/attaches/iDreamer_EdTech.pdf">Life Planning</a> and 
-          <a href="/attaches/BP.pdf">Mental Health Platform</a>.</li>
-      <li><a href="https://datamatch.me/">This project</a> has also been selected and accelerated by 
-          <a href="https://clubidreamer.com/">i-Lab Harvard Accelerator</a>.</li>
-    </ul>
-  </div>
-</div>
-
+<h4 style="margin-top: 2rem;">🧩 Extention Projects</h4>
 
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/18/wMdK86JcFDimoY3.png" alt="Howdream Logo" width="200" height="200">
@@ -183,6 +168,27 @@ date: 2023-09-08 17:55:11
     </ul>
   </div>
 </div>
+
+
+<div class="img-text-row">
+  <img class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" alt="iDreamer Logo" width="200" height="200">
+  <div class="text-block">
+    <p>
+      Under the concept of <strong>Education Equality</strong>, I've supported as a core 
+      <a href="https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag">member</a> in the iDreamer initiative.
+    </p>
+    <ul>
+      <li>Everything here is for <a href="https://mp.weixin.qq.com/s/MrYwdrviFl4H8MKB_FUxtw">University Students</a> in China.</li>
+      <li>This project pays more attention to <a href="/attaches/iDreamer_EdTech.pdf">Life Planning</a> and 
+          <a href="/attaches/BP.pdf">Mental Health Platform</a>.</li>
+      <li><a href="https://datamatch.me/">This project</a> has also been selected and accelerated by 
+          <a href="https://clubidreamer.com/">i-Lab Harvard Accelerator</a>.</li>
+    </ul>
+  </div>
+</div>
+
+
+
 
 <h4 style="margin-top: 2rem;">📌 Memorabilia</h4>
 
