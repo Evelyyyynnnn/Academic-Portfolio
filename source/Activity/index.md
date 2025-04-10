@@ -5,7 +5,7 @@ date: 2023-09-08 17:55:11
 <style>
   .img-text-row {
     display: flex;
-    align-items: flex-start;
+    align-items: center;
     gap: 20px; /* 图片和文字的间隔 */
     margin: 1rem 0;
   }
