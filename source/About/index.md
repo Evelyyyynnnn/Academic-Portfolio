@@ -1,7 +1,8 @@
 ---
-title: About
 date: 2023-09-08 17:55:11
 ---
+
+# About 
 
 <style>
   .img-shadow {
@@ -10,15 +11,23 @@ date: 2023-09-08 17:55:11
     display: block;
     margin: 2rem auto;
     max-width: 90%;
+    transition: transform 0.3s ease;
+  }
+
+  .img-shadow:hover {
+    transform: scale(1.05) rotate(1deg);
+    cursor: pointer;
   }
 </style>
 
 <div>
   <p>Here you could find more of my websites where you could refer more on the projects:</p>
 
-  <p>More Detail <a href="https://evelyyyynnnn.github.io/">About Me</a></p>
+  <p>More Portfolio <a href="https://evelyyyynnnn.github.io/">About Me</a></p>
 
-  <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="900" class="img-shadow" />
+  <a href="https://evelyyyynnnn.github.io/" target="_blank">
+    <img src="/img/Evelyn-Portfolio.jpg" alt="Evelyn Portfolio" width="1000" class="img-shadow" />
+  </a>
 </div>
 
 
