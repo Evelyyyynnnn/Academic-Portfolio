@@ -3,13 +3,52 @@ date: 2023-09-08 17:55:11
 
 ---
 <style>
+  .img-text-row {
+    display: flex;
+    align-items: flex-start;
+    gap: 20px; /* 图片和文字的间隔 */
+    margin: 1rem 0;
+  }
+
   .img-shadow {
     box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-    border-radius: 8px;
-    margin-left: 20px;
-    margin-bottom: 20px;
+    border-radius: 12px;
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+  }
+
+  .text-block {
+    flex: 1;
   }
 </style>
+
+# Social Activities
+
+<div class="img-text-row">
+  <img class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" alt="GCY Logo">
+  <div class="text-block">
+    <h2>GLOBAL CITIZEN YEAR</h2>
+    <p>
+      As my gap year project,
+      <a href="https://www.linkedin.com/school/global-citizen-year/">Global Citizen Year(GCY)</a> is an international education non-profit organization focused on youth empowerment,
+      aiming to <a href="https://www.facebook.com/globalcitizenyear">connect world innovation</a> and change leaders through first-class 
+      <a href="https://www.instagram.com/globalcitizenyr/">academic and practical projects</a>, and 
+      <a href="https://en.wikipedia.org/wiki/Global_Citizen_Year">cultivate a new generation of world</a> youth leaders to jointly address 
+      <a href="https://twitter.com/GlobalCitizenYr">global challenges</a> including climate change, disease prevention, improved education, and 
+      <a href="https://www.youtube.com/user/GlobalCitizenYearVid">poverty eradication</a>.
+    </p>
+    <p>
+      Under the guidance of <a href="https://www.globalcitizenyear.org/">GCY</a>, I held large local workshops and participated in designing like:
+    </p>
+    <ul>
+      <li><a href="https://mp.weixin.qq.com/s/RidtbtqEc490KWu4USiF8A">Carbon Cycle</a></li>
+      <li><a href="https://mp.weixin.qq.com/s/mzx1LJwZn9HRx9p1LZWarw">Zero-Carbon Challenge</a></li>
+    </ul>
+  </div>
+</div>
+
+
 
 
 # Social Activities 
