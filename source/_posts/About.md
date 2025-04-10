@@ -28,51 +28,6 @@ I'm currently a graduate student at [Cornell University](https://www.cornell.edu
   }
 </style>
 
-
-<div style="display: flex; justify-content: space-between;">
-  <div style="width: 48%;">
-    <h3>Research Interests:</h3>
-    <ul style="line-height: 3.5;"> <!-- 建议用 3.5，这样段落更自然 -->
-      <li>
-        <strong>Data-Driven Decision Making in Finance</strong><br>
-        Applying statistical learning and machine learning models to support asset allocation and portfolio optimization.
-      </li>
-      <li>
-        <strong>Stochastic and Optimization for Supply Chain</strong><br>
-        Exploring uncertainty modeling and robust optimization for production, logistics, and inventory management.
-      </li>
-      <li>
-        <strong>Deep Learning for Behavioral Innovation</strong><br>
-        Investigating user decision-making patterns via neural network-based analysis in digital platforms and markets.
-      </li>
-    </ul>
-  </div>
-  <div style="width: 52%;">
-    <h3>Education:</h3>
-    <div class="timeline">
-      <div class="event">
-        <div class="date">2019-2024</div>
-        <div class="description"><strong>
-        B.S. in Intelligent Accounting</strong><br>Accounting and Data Science<br>🎓 Renmin University of China
-        </div>
-      </div>
-      <div class="event">
-        <div class="date">2022-2023</div>
-        <div class="description"><strong>
-        Business School</strong><br>🎓 Exchange in City University of Hong Kong
-        </div>
-      </div>
-      <div class="event">
-        <div class="date">2024-2026</div>
-        <div class="description"><strong>
-        M.Eng in Financial Engineering Track</strong><br>Operational Research and Industry Engineering <br>🎓 Cornell University
-        </div>
-      </div>
-    </div>
-  </div>
-</div>
-
-
 <div style="display: flex; justify-content: space-between;">
   <div style="width: 48%;">
     <h3>Research Interests:</h3>
