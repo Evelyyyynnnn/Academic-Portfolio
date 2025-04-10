@@ -60,16 +60,10 @@ date: 2023-09-08 17:55:11
       for <strong>EDUCATIONAL</strong> 
       <a href="https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ"><strong>EQUATLITY</strong></a> and 
       <a href="https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q"><strong>SUSTATINABILITY</strong></a> 
-      through our social innovation toolkits and EdTech software.
-    </p>
-
-    <h4>🎯 Mission</h4>
-    <ul>
+      through our social innovation toolkits and EdTech software. We also have the mission as follows:
       <li>Plan marketing, creative writing, and graphic design for WeChat and Instagram.</li>
       <li>Design social innovation tools for Better workshops in partnership with B Corps CN.</li>
       <li>Conduct Project-based Learning (PBL) sessions and assist Product R&D Department in curriculum design.</li>
-    </ul>
-
     <p>
       Registered in <a href="https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html">China</a>, 
       committed to build open-source virtual 
