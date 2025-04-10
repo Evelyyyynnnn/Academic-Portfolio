@@ -141,6 +141,7 @@ date: 2023-09-08 17:55:11
   </tbody>
 </table>
 
+</br>
 
 <h4 style="margin-top: 2rem;">🧩 Extention Projects</h4>
 
@@ -220,9 +221,7 @@ date: 2023-09-08 17:55:11
 </table>
 
 
-In general,as the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
-
-Under the principle of expressing better education to more people,I've started the country-round [tutoring](http://k.sina.com.cn/article_5617175140_14ecf4a6401900tj62.html) and speech jobs since the start of undergruate study
+In general,as the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals). Under the principle of expressing better education to more people,I've started the country-round [tutoring](http://k.sina.com.cn/article_5617175140_14ecf4a6401900tj62.html) and speech jobs since the start of undergruate study
 
 
 
