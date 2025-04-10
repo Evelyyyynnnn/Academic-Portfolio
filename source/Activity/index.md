@@ -25,10 +25,10 @@ date: 2023-09-08 17:55:11
 
 # Social Activities
 
+**Global Citizen Year**
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" alt="GCY Logo">
   <div class="text-block">
-    <h2>GLOBAL CITIZEN YEAR</h2>
     <p>
       As my gap year project,
       <a href="https://www.linkedin.com/school/global-citizen-year/">Global Citizen Year(GCY)</a> is an international education non-profit organization focused on youth empowerment,
