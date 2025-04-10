@@ -25,7 +25,6 @@ date: 2023-09-08 17:55:11
 
 # Social Activities
 
-<p style="text-align: left; font-size: 1.7rem; font-weight: bold;">1️⃣ Global Citizen Year</p>
 
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" alt="GCY Logo">
@@ -50,26 +49,107 @@ date: 2023-09-08 17:55:11
 </div>
 
 
+<style>
+  .img-text-row {
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    margin: 2rem 0;
+  }
 
+  .img-shadow {
+    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
+    border-radius: 12px;
+    width: 200px;
+    height: auto;
+    flex-shrink: 0;
+  }
 
-# Social Activities 
+  .text-block {
+    flex: 1;
+  }
+</style>
+
+<p style="text-align: center; font-size: 1.8rem; font-weight: bold;">VIRA</p>
+
+<div class="img-text-row">
+  <img class="img-shadow" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" alt="VIRA Logo">
+  <div class="text-block">
+    <p>
+      As the founder of <a href="/attaches/Proposal.pdf">VIRA</a>, which is one 
+      <a href="/attaches/ImpactReport.pdf">social enterprise</a>, I believe in the strength of 
+      <a href="https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd">Metaverse</a> 
+      for <strong>EDUCATIONAL</strong> 
+      <a href="https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ"><strong>EQUATLITY</strong></a> and 
+      <a href="https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q"><strong>SUSTATINABILITY</strong></a> 
+      through our social innovation toolkits and EdTech software.
+    </p>
+
+    <h4>🎯 Mission</h4>
+    <ul>
+      <li>Plan marketing, creative writing, and graphic design for WeChat and Instagram.</li>
+      <li>Design social innovation tools for Better workshops in partnership with B Corps CN.</li>
+      <li>Conduct Project-based Learning (PBL) sessions and assist Product R&D Department in curriculum design.</li>
+    </ul>
+
+    <p>
+      Registered in <a href="https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html">China</a>, 
+      VIRA is committed to building open-source virtual 
+      <a href="http://www.fusinnovations.com/">STEAM communities</a> under the "Edu+" 
+      <a href="https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g">ecosystem</a>.
+    </p>
+  </div>
+</div>
+
+<h4 style="margin-top: 2rem;">📌 Memorabilia</h4>
+
+<table>
+  <thead>
+    <tr>
+      <th><strong>Time</strong></th>
+      <th><strong>Event</strong></th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Feb 2021</td>
+      <td>Be invited to be the guest speaker in <a href="https://www.youthcolab.org/movers">Youth Movers Programme</a> to share our social impact</td>
+    </tr>
+    <tr>
+      <td>Feb 2022</td>
+      <td>Hold the International Meeting</td>
+    </tr>
+    <tr>
+      <td>Apr. 2021</td>
+      <td>Play the role of media and marketing partner of <a href="https://worldwide.harvard.edu/china-education-symposium">the 12th Harvard China Education Symposium</a></td>
+    </tr>
+    <tr>
+      <td>Dec. 2021</td>
+      <td>Join the <a href="https://unglobalcompact.org/">UN Global Compact</a> as a corporate member</td>
+    </tr>
+    <tr>
+      <td>Mar. 2021</td>
+      <td>Become the official partner of the <a href="https://inhub.thehenryford.org/icw/home">China Regional Alliance of Invention Convention Worldwide</a></td>
+    </tr>
+    <tr>
+      <td>Jul. 2022</td>
+      <td>Be rewarded more than 100K USD by our sponsors</td>
+    </tr>
+    <tr>
+      <td>Dec. 2022</td>
+      <td>Be selected and accelerated in <a href="https://watson.is/">Watson Institution</a>, one of the top communities for next-gen entrepreneurs</td>
+    </tr>
+    <tr>
+      <td>2023</td>
+      <td><a href="https://mp.weixin.qq.com/template/article/1694609059/index.html">Stories</a> continued...</td>
+    </tr>
+  </tbody>
+</table>
+
 
 As the first generation college student born in one small town of the southwestern China,I consistently show interest to public-goods,especiall for the education equality and youngster therapy in [SDGs](https://sdgs.un.org/goals).
 
-<img align="left" class="img-shadow" src="https://s2.loli.net/2023/09/19/uEyZ8G9k6V2rgBN.jpg" width = "230" height = "230" />
-<div style="clear: both;"></div>
 
-## GLOBAL CITIZEN YEAR
-
-As my gap year project,[Global Citizen Year(GCY)](https://www.linkedin.com/school/global-citizen-year/) is an international education non-profit organization focused on youth empowerment, aiming to [connect world innovation](https://www.facebook.com/globalcitizenyear) and change leaders through first-class [academic and practical projects](https://www.instagram.com/globalcitizenyr/), and [cultivate a new generation of world](https://en.wikipedia.org/wiki/Global_Citizen_Year) youth leaders to jointly address [global challenges](https://twitter.com/GlobalCitizenYr) including climate change, disease prevention, improved education, and [poverty eradication](https://www.youtube.com/user/GlobalCitizenYearVid)
-
-Under the guidance of [GCY](https://www.globalcitizenyear.org/),I held large local workshops and participated in designing like 
-- [Carbon Cycle](https://mp.weixin.qq.com/s/RidtbtqEc490KWu4USiF8A) 
-- [Zero-Carbon Challenge](https://mp.weixin.qq.com/s/mzx1LJwZn9HRx9p1LZWarw) 
-
-
-<img align="left" class="img-shadow"  src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" width = "250" height = "250" />
-<div style="clear: both;"></div>
 
 
 ## VIRA
