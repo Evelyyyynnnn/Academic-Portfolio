@@ -23,6 +23,7 @@ date: 2023-09-08 17:55:11
   }
 </style>
 
+
 # Social Activities
 
 
@@ -48,30 +49,6 @@ date: 2023-09-08 17:55:11
   </div>
 </div>
 
-
-<style>
-  .img-text-row {
-    display: flex;
-    align-items: center;
-    gap: 20px;
-    margin: 2rem 0;
-  }
-
-  .img-shadow {
-    box-shadow: 0 8px 24px rgba(0, 0, 0, 0.15);
-    border-radius: 12px;
-    width: 200px;
-    height: auto;
-    flex-shrink: 0;
-  }
-
-  .text-block {
-    flex: 1;
-  }
-</style>
-
-<p style="text-align: center; font-size: 1.8rem; font-weight: bold;">VIRA</p>
-
 <div class="img-text-row">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" alt="VIRA Logo">
   <div class="text-block">
@@ -83,20 +60,6 @@ date: 2023-09-08 17:55:11
       <a href="https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ"><strong>EQUATLITY</strong></a> and 
       <a href="https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q"><strong>SUSTATINABILITY</strong></a> 
       through our social innovation toolkits and EdTech software.
-    </p>
-
-    <h4>🎯 Mission</h4>
-    <ul>
-      <li>Plan marketing, creative writing, and graphic design for WeChat and Instagram.</li>
-      <li>Design social innovation tools for Better workshops in partnership with B Corps CN.</li>
-      <li>Conduct Project-based Learning (PBL) sessions and assist Product R&D Department in curriculum design.</li>
-    </ul>
-
-    <p>
-      Registered in <a href="https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html">China</a>, 
-      VIRA is committed to building open-source virtual 
-      <a href="http://www.fusinnovations.com/">STEAM communities</a> under the "Edu+" 
-      <a href="https://mp.weixin.qq.com/s/d4dR144ZYw2ptpq4fDCw4g">ecosystem</a>.
     </p>
   </div>
 </div>
