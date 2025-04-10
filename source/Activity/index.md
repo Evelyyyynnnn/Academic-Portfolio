@@ -56,7 +56,7 @@ date: 2023-09-08 17:55:11
   </a>
   <div class="text-block">
     <p>
-      As my gap year project,Global Citizen Year(GCY) is an international education non-profit organization focused on youth empowerment,
+      As my gap year project,Global Citizen Year is an international education non-profit organization focused on youth empowerment,
       aiming to <a href="https://www.facebook.com/globalcitizenyear">connect world innovation</a> and change leaders through first-class 
       <a href="https://www.instagram.com/globalcitizenyr/">academic and practical projects</a>, and 
       <a href="https://en.wikipedia.org/wiki/Global_Citizen_Year">cultivate a new generation of world</a> youth leaders to jointly address 
@@ -64,7 +64,7 @@ date: 2023-09-08 17:55:11
       <a href="https://www.youtube.com/user/GlobalCitizenYearVid">poverty eradication</a>.
     </p>
     <p>
-      Under the guidance of <a href="https://www.globalcitizenyear.org/">GCY</a>, I held large local workshops and participated in designing like:
+      Under the guidance of <a href="https://www.globalcitizenyear.org/">Global Citizen Year</a>, I held large local workshops and participated in designing like:
     </p>
     <ul>
       <li><a href="https://mp.weixin.qq.com/s/RidtbtqEc490KWu4USiF8A">Carbon Cycle</a></li>
@@ -75,13 +75,13 @@ date: 2023-09-08 17:55:11
 
 
 <div class="img-text-row">
+  <a href="https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd" target="_blank">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/13/AitL5qkUEF9njXZ.jpg" alt="VIRA Logo">
+  </a>
   <div class="text-block">
     <p>
       As the founder of <a href="/attaches/Proposal.pdf">VIRA</a>, which is one 
-      <a href="/attaches/ImpactReport.pdf">social enterprise</a>, I believe in the strength of 
-      <a href="https://mp.weixin.qq.com/s?__biz=MzkzNzQyMzg1Mw==&mid=2247483678&idx=1&sn=62fdebe2fb25f8c34814b0f48e40026e&chksm=c28ee79cf5f96e8ab014b3564f845e98c156ed4d03b7c801584c2e144ee0d0772903d0ba818c&scene=126&sessionid=1694608573#rd">Metaverse</a> 
-      for <strong>EDUCATIONAL</strong> 
+      <a href="/attaches/ImpactReport.pdf">social enterprise</a>, I believe in the strength of Metaverse for <strong>EDUCATIONAL</strong> 
       <a href="https://mp.weixin.qq.com/s/1dz7O-Pi8pOcRr2U_mGCDQ"><strong>EQUATLITY</strong></a> and 
       <a href="https://mp.weixin.qq.com/s/pOcCKk1hP8HOYcoGF_Pl1Q"><strong>SUSTATINABILITY</strong></a> 
       through our social innovation toolkits and EdTech software.Registered in <a href="https://www.qcc.com/firm/3050d27fca38af0a9d8feb7a5ae3a090.html">China</a>, 
@@ -147,10 +147,12 @@ date: 2023-09-08 17:55:11
 <h4 style="margin-top: 2rem;">🧩 Extention Projects</h4>
 
 <div class="img-text-row">
+  <a href="https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA" target="_blank">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/18/wMdK86JcFDimoY3.png" alt="Howdream Logo" width="200" height="200">
+  </a>
   <div class="text-block">
     <p>
-      The principle of me to start <a href="https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA">Howdream</a> is similar to VIRA.
+      The principle of me to start Howdream is similar to VIRA.
       As the <a href="https://howdream.mystrikingly.com/">ex-business manager</a>, I focused more on 
       <a href="https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg">art therapy</a>.We started from the <a href="https://www.linkedin.com/company/howdream/">Watson Institution</a> 2021 Shanghai Workshop.
     </p>
@@ -173,11 +175,12 @@ date: 2023-09-08 17:55:11
 
 
 <div class="img-text-row">
+  <a href="https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag" target="_blank">
   <img class="img-shadow" src="https://s2.loli.net/2023/09/18/VgcMLbWT8s5wmpj.jpg" alt="iDreamer Logo" width="200" height="200">
+  </a>
   <div class="text-block">
     <p>
-      Under the concept of <strong>Education Equality</strong>, I've supported as a core 
-      <a href="https://mp.weixin.qq.com/s/tVdOUFfY45TFK3WXyR28ag">member</a> in the iDreamer initiative.
+      Under the concept of <strong>Education Equality</strong>, I've supported as a core member in the iDreamer initiative.
     </p>
     <ul>
       <li>Everything here is for <a href="https://mp.weixin.qq.com/s/MrYwdrviFl4H8MKB_FUxtw">University Students</a> in China.</li>
