@@ -165,10 +165,9 @@ date: 2023-09-08 17:55:11
     <p>
       The principle of me to start <a href="https://mp.weixin.qq.com/s/FgY0RaQi-jKPXILcO7YyKA">Howdream</a> is similar to VIRA.
       As the <a href="https://howdream.mystrikingly.com/">ex-business manager</a>, I focused more on 
-      <a href="https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg">art therapy</a>.
+      <a href="https://mp.weixin.qq.com/s/07gsdGR39HfdPOVVX0Nozg">art therapy</a>.We started from the <a href="https://www.linkedin.com/company/howdream/">Watson Institution</a> 2021 Shanghai Workshop.
     </p>
     <p>
-      We started from the <a href="https://www.linkedin.com/company/howdream/">Watson Institution</a> 2021 Shanghai Workshop.
       We are committed to assisting Chinese youth—both locally and abroad—in exploring 
       personal development, family and campus relationships, cultural integration, and 
       educational equity through creative products, multimedia content, and workshops.
